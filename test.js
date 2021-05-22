@@ -6,3 +6,7 @@ function dddd() {
   dddd;
   console.log('ee');
 }
+console.log(fff);
+function dddss() {
+  console.log(223);
+}
