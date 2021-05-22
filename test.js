@@ -16,3 +16,10 @@ function adf() {
 console.log('dddss');
 1123344
 const aa = 'ffffdd';
+
+const bb = 1233;
+2
+3
+dddd
+1
+dddss
