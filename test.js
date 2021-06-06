@@ -48,11 +48,8 @@ dddd
 222
 cccc
 eee
-<<<<<<< HEAD
-=======
 22222
 cc
->>>>>>> 33df82c2fb7f2086ae6f7b273cb95030deb4d941
 1
 ddddddddddddddddd
 222
